@@ -43,3 +43,7 @@ group :development, :test do
   gem 'spring'
 end
 
+
+
+gem "wisper", "~> 1.6"
+
